@@ -1,4 +1,4 @@
-## 🔹 Bio (Data-Interest Focused)
+## 🔹 Read Me
 
 Hi there!
 
