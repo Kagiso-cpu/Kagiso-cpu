@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Kagiso-cpu
-- 👀 I’m interested in Software Development.
--I am especially enthusiastic about the world of developers, to achieve an understanding of the field, I embarked on being a self-taught developer. It is integral for me that my route will permit me to similarly strengthen my skills. 
+## 🔹 Bio (Data-Interest Focused)
 
--I’ve usually preferred how wonderful being a developer can be different from science, however now not in an equal way as science. I have continuously loved the notion and the research at the back of this specific branch. The science that is used to design, develop, and then take a look at a range of initiatives is so revolutionary and intriguing.
+Hi there!
 
-<!---
-Kagiso-cpu/Kagiso-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Kagiso, currently pursuing my BSc in Information Technology in South Africa, with a strong interest in the world of **data**.
+
+I’m fascinated by how data can be used to uncover insights, tell stories, and guide better decision-making. My focus is on learning how to work with data—collecting it, cleaning it, analyzing it, and turning it into something meaningful and easy to understand.
+
+I enjoy exploring real-world datasets and creating small projects that help me better understand concepts like **data visualization, statistics, and predictions**. My long-term goal is to grow into someone who can use data to solve problems and make a positive impact.
+
+### ⚡ Fun Facts
+
+* I’m more into **exploring patterns in data** than drinking coffee ☕
+* I’m fascinated by **mathematics and logic**, especially how they connect to analyzing data
+* I enjoy experimenting with tools like **Excel, Power BI, and Python libraries** for visualization and analysis
+
+📫 Reach me at: **[matloukagiso0506@gmail.com.com](mailto:techg@gmail.com)**
