@@ -1,7 +1,5 @@
 ## 🔹 Read Me
 
-Hi there!
-
 I'm Kagiso, currently pursuing my BSc in Information Technology in South Africa, with a strong interest in the world of **data**.
 
 I’m fascinated by how data can be used to uncover insights, tell stories, and guide better decision-making. My focus is on learning how to work with data—collecting it, cleaning it, analyzing it, and turning it into something meaningful and easy to understand.
